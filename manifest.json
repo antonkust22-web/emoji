@@ -1,0 +1,134 @@
+{
+  "phone": {
+    "emoji": "📱",
+    "file": "phone.webm"
+  },
+  "connect": {
+    "emoji": "📲",
+    "file": "connect.webm"
+  },
+  "user": {
+    "emoji": "👤",
+    "file": "user.webm"
+  },
+  "card": {
+    "emoji": "💳",
+    "file": "card.webm"
+  },
+  "ticket": {
+    "emoji": "🎟",
+    "file": "ticket.webm"
+  },
+  "book": {
+    "emoji": "📖",
+    "file": "book.webm"
+  },
+  "wave": {
+    "emoji": "👋",
+    "file": "wave.webm"
+  },
+  "monitor": {
+    "emoji": "🖥",
+    "file": "monitor.webm"
+  },
+  "dot_green": {
+    "emoji": "🟢",
+    "file": "dot_green.webm"
+  },
+  "partners": {
+    "emoji": "🤝",
+    "file": "partners.webm"
+  },
+  "link": {
+    "emoji": "🔗",
+    "file": "link.webm"
+  },
+  "users": {
+    "emoji": "👥",
+    "file": "users.webm"
+  },
+  "sparkles": {
+    "emoji": "✨",
+    "file": "sparkles.webm"
+  },
+  "clipboard": {
+    "emoji": "📋",
+    "file": "clipboard.webm"
+  },
+  "arrow_left": {
+    "emoji": "⬅️",
+    "file": "arrow_left.webm"
+  },
+  "play": {
+    "emoji": "▶️",
+    "file": "play.webm"
+  },
+  "check": {
+    "emoji": "✅",
+    "file": "check.webm"
+  },
+  "cross": {
+    "emoji": "❌",
+    "file": "cross.webm"
+  },
+  "gear": {
+    "emoji": "⚙️",
+    "file": "gear.webm"
+  },
+  "megaphone": {
+    "emoji": "📢",
+    "file": "megaphone.webm"
+  },
+  "lock": {
+    "emoji": "🔒",
+    "file": "lock.webm"
+  },
+  "chart": {
+    "emoji": "📊",
+    "file": "chart.webm"
+  },
+  "cart": {
+    "emoji": "🛒",
+    "file": "cart.webm"
+  },
+  "rocket": {
+    "emoji": "🚀",
+    "file": "rocket.webm"
+  },
+  "calendar": {
+    "emoji": "📅",
+    "file": "calendar.webm"
+  },
+  "bolt": {
+    "emoji": "⚡",
+    "file": "bolt.webm"
+  },
+  "qr": {
+    "emoji": "🖼",
+    "file": "qr.webm"
+  },
+  "refresh": {
+    "emoji": "🔄",
+    "file": "refresh.webm"
+  },
+  "party": {
+    "emoji": "🎉",
+    "file": "party.webm"
+  },
+  "bell": {
+    "emoji": "🔔",
+    "file": "bell.webm"
+  },
+  "warning": {
+    "emoji": "⚠️",
+    "file": "warning.webm"
+  },
+  "gift": {
+    "emoji": "🎁",
+    "file": "gift.webm"
+  },
+  "mail": {
+    "emoji": "📧",
+    "file": "mail.webm"
+  }
+}
